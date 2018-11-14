@@ -1,0 +1,11 @@
+Package: scramble
+Title: R package for my functions. 
+Date: 2018-11-13
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Valerie", "Welty", email = "valerie.welty@vanderbilt.edu", role = c("aut", "cre")))
+Depends: R (>= 3.4.4)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0.9000
