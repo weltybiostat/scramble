@@ -28,5 +28,3 @@ scramble(c('vanderbilt biostatistics', 'lightning talks'), 3)
 # [1] "ntsinahlilg kgt" "l hkgngiaitstnl" "isatnlgti ngkhl"
 
 ```
-# scramble
-# scramble
